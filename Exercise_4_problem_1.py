@@ -42,7 +42,7 @@
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
+# I surely understand the contents.
 #
 #
 #
